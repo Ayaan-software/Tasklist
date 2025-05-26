@@ -2,7 +2,8 @@
 A simple and elegant web-based task management application that helps you organize your daily tasks efficiently.
 
 
-Hi! I am Ayaan. I am on the hunt for an Apprenticeship/Lehrstelle!
+**Hi! I am Ayaan. I am on the hunt for an Apprenticeship/Lehrstelle!**
+
 🚀 Features
 Add new tasks with a single click
 
@@ -37,12 +38,8 @@ Bearbeiten
 ├── style.css        # All styles for the app
 ├── script.js        # JavaScript functionality
 📦 How to Use
-Download or clone this repository:
+Download or clone this repository or
 
-bash
-Kopieren
-Bearbeiten
-git clone https://github.com/your-username/tasklist.git
 Open index.html in your browser.
 
 Start managing your tasks!
