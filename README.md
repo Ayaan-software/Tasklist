@@ -4,7 +4,7 @@ A simple and elegant web-based task management application that helps you organi
 
 **Hi! I am Ayaan. I am on the hunt for an Apprenticeship/Lehrstelle!**
 
-Note: This was a Task in IBM Web Develop
+**Note: This was a Task in IBM Web Development Fundamental**
 🚀 Features
 Add new tasks with a single click
 
@@ -63,6 +63,7 @@ Add filters (All, Completed, Pending)
 
 🙋‍♂️ Author
 Made with ♥ by Ayaan Khan
+with help of IBM SkillsBuild.
 
 📄 License
-This project is licensed under the MIT License. Feel free to use and modify!
+This project is licensed under the MIT License. Feel free to use and modify! I dont mind if you copy, but just give me credit.
