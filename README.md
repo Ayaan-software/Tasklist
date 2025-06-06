@@ -68,4 +68,5 @@ Made with ♥ by Ayaan Khan
 with help of IBM SkillsBuild.
 
 📄 License
-This project is licensed under the MIT License. Feel free to use and modify! I dont mind if you copy, but just give me credit.
+This project is licensed under the MIT License. Feel free to copy and modify — just kindly give credit. 🙂
+
